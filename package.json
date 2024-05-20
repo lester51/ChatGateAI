@@ -1,0 +1,17 @@
+{
+  "name": "chatgate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "npm install && node index"
+  },
+  "dependencies": {
+    "axios": "^1.6.8",
+    "cheerio": "^1.0.0-rc.12",
+    "express": "^4.19.2",
+    "html-entities": "^2.5.2"
+  },
+  "author": "HackMeSenpai",
+  "license": "ISC"
+}

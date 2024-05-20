@@ -1,0 +1,99 @@
+[
+  {
+    "name": "gpt-4",
+    "mode": "chat",
+    "botId": "chatbot-z3fedi"
+  },
+  {
+    "name": "Web Browsing",
+    "mode": "chat",
+    "botId": "chatbot-x0npa7"
+  },
+  {
+    "name": "gpt-4o",
+    "mode": "chat",
+    "botId": "chatbot-3siv3p"
+  },
+  {
+    "name": "gpt-4 vision",
+    "mode": "Image",
+    "botId": "chatbot-kvic0w"
+  },
+  {
+    "name": "dall.e 3",
+    "mode": "Image",
+    "botId": "chatbot-5rwkvr"
+  },
+  {
+    "name": "chat pdf",
+    "mode": "pdf",
+    "botId": "chatbot-naohv4"
+  },
+  {
+    "name": "gemini pro 1.5",
+    "mode": "chat",
+    "botId": "chatbot-qkxchq"
+  },
+  {
+    "name": "gemini pro vision",
+    "mode": "Image",
+    "botId": "chatbot-zn1po5"
+  },
+  {
+    "name": "palm 2 code chat",
+    "mode": "chat",
+    "botId": "default",
+    "customId": "8c9721b86593cb28fbdfd9496b4366c4"
+  },
+  {
+    "name": "claude 3 opus",
+    "mode": "chat",
+    "botId": "chatbot-zdmvyq"
+  },
+  {
+    "name": "claude 3 sonnet",
+    "mode": "chat",
+    "botId": "chatbot-iwyjrk"
+  },
+  {
+    "name": "claude 3 vision",
+    "mode": "Image",
+    "botId": "chatbot-12oenm"
+  },
+  {
+    "name": "sonar-8x7b-online",
+    "mode": "chat",
+    "botId": "default",
+    "customId": "92fad6c4ad1e58a53fb61a84d29ed75f"
+  },
+  {
+    "name": "pplx-70b-online",
+    "mode": "chat",
+    "botId": "default",
+    "customId": "cfd01ebd5d73ad22210a0a1eae32e11c"
+  },
+  {
+    "name": "llama 3 70b instruct",
+    "mode": "chat",
+    "botId": "default",
+    "customId": "37732a3e6793260a1d6fb7aa201bcc4a"
+  },
+  {
+    "name": "llama 3 8b instruct",
+    "mode": "chat",
+    "botId": "default",
+    "customId": "4218476a30bddce69ff07ea810018d77"
+  },
+  {
+    "name": "code llama 70b instruct",
+    "mode": "chat",
+    "botId": "default",
+    "customId": "ddf0df7c99abae4aaada540fbb051eed"
+  },
+  {
+    "name": "fun gpt",
+    "mode": "chat",
+    "botId": "default",
+    "customId": "c2061b0b83f5a9b5202d2d4d04649b65"
+  }
+]
