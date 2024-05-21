@@ -273,7 +273,7 @@ app.get('/Chat', async function(req, res) {
 })
 
 
-app.get('/getToken', async function(req, res) {
+/*app.get('/getToken', async function(req, res) {
 	try {
 		let {data} = await axios.get('https:/\/chatgateai.onrender.com/getToken')
 		let r7 = await axios.post('https:/\/chatgate.ai/wp-json/firebase/v2/users/register-autologin',{
@@ -311,10 +311,10 @@ app.get('/getToken', async function(req, res) {
 			})
 		}
 	}
-});
+});*/
 
 
-/*app.get('/getToken', async function(req, res) {
+app.get('/getToken', async function(req, res) {
 	try {
 	 //let {email,cookies} = await axios.get(`http://${require('os').hostname()}:${port}/route1`)
 		let {
@@ -395,7 +395,7 @@ app.get('/getToken', async function(req, res) {
 			})
 		}
 	}
-});*/
+});
 
 app.listen(port, () => {
   console.log(`Server is listening on port ${port}`)
